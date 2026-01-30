@@ -8,9 +8,9 @@ You can either **build it yourself**, or **order one via Instagram: _TiagTiag43_
 ---
 
 # **Top:**
-<img src="https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Image/Top.png" width="700">
+<img src="https://github.com/Tiag-Tiag/40-pin-plug-Speeduino/blob/main/Images/front.png" width="700">
 
 # **Bottom:**
-<img src="https://github.com/Tiag-Tiag/IRLD020_For_Speeduino/blob/main/Image/Botom.png" width="700">
+<img src="https://github.com/Tiag-Tiag/40-pin-plug-Speeduino/blob/main/Images/back.png" width="700">
 
 </div>
